@@ -1,0 +1,6 @@
+C:\Users\Кирилл\Desktop\LabExam\Korzun_Exam\LabExam\LabExam\bin\Debug\LabExam.dll
+C:\Users\Кирилл\Desktop\LabExam\Korzun_Exam\LabExam\LabExam\bin\Debug\LabExam.pdb
+C:\Users\Кирилл\Desktop\LabExam\Korzun_Exam\LabExam\LabExam\obj\Debug\LabExam.csprojAssemblyReference.cache
+C:\Users\Кирилл\Desktop\LabExam\Korzun_Exam\LabExam\LabExam\obj\Debug\LabExam.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\Desktop\LabExam\Korzun_Exam\LabExam\LabExam\obj\Debug\LabExam.dll
+C:\Users\Кирилл\Desktop\LabExam\Korzun_Exam\LabExam\LabExam\obj\Debug\LabExam.pdb
